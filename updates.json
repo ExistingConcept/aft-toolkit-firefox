@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "{00000000-0000-4000-ac69-ab861b78f400}": {
+      "updates": [
+        {
+          "version": "6.14.1.1",
+          "update_link": "https://ExistingConcept.github.io/aft-toolkit-firefox/xpi/aft_toolkit-6.14.1.1.xpi",
+          "update_hash": "sha256:156bc77b7963342988b4d297e2c1f608e0724aca69955b2453c3a7eada9a43d3"
+        }
+      ]
+    }
+  }
+}
