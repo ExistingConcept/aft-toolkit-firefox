@@ -3,9 +3,9 @@
     "{00000000-0000-4000-ac69-ab861b78f400}": {
       "updates": [
         {
-          "version": "6.15.1.1",
-          "update_link": "https://ExistingConcept.github.io/aft-toolkit-firefox/xpi/aft_toolkit-6.15.1.1.xpi",
-          "update_hash": "sha256:1ef57655b1f1b6d59630ec10fe0d6bcdd36d6d80e2a777101f3101595a02da93"
+          "version": "6.15.5",
+          "update_link": "https://ExistingConcept.github.io/aft-toolkit-firefox/xpi/aft_toolkit-6.15.5.xpi",
+          "update_hash": "sha256:522fa76372a0d2b53b34efd2ed7f3a6f7866bf390402df971ccbe3e71ef15ba4"
         }
       ]
     }
